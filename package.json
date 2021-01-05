@@ -10,7 +10,7 @@
     "@fortawesome/free-solid-svg-icons": "^5.11.2",
     "@fortawesome/react-fontawesome": "^0.1.7",
     "analytics-node": "^3.4.0-beta.1",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "babel-plugin-styled-components": "^1.10.7",
     "framer-motion": "^1.6.17",
     "gatsby": "^2.17.11",
